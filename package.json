@@ -7,7 +7,9 @@
   "scripts": {
     "start": "node ./src/server.js",
     "dev": "nodemon ./src/server.js",
-    "users": "node ./src/data/data.js"
+    "users": "node ./src/data/data.js",
+    "authors": "node ./src/data/author.js",
+    "categories": "node ./src/data/category.js"
   },
   "author": "",
   "license": "ISC",
