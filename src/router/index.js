@@ -6,7 +6,6 @@ import chaptersRouter from "./chapters.js";
 import categoriesRouter from "./categories.js";
 
 
-
 const indexRouter = Router();
 
 indexRouter.use("/authors", authorsRouter);
